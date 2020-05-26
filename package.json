@@ -1,0 +1,17 @@
+{
+  "name": "node_uber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.683.0",
+    "axios": "^0.19.2",
+    "redis": "^3.0.2"
+  }
+}
